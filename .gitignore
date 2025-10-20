@@ -1,0 +1,12 @@
+# SolidWorks temporary/backup files
+*.sldprt~*
+*.sldasm~*
+*.slddrw~*
+*.swp
+*.bak
+*.log
+*.temp
+
+# SolidWorks autosave/backup folders
+swBackup/
+~$*
